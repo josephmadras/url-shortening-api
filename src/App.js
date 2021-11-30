@@ -94,7 +94,7 @@ function App() {
 
         <div className="footer">
           <div>
-            <img img={logo} alt="logo" />
+            <img src={logo} alt="logo" />
           </div>
           <div>
             <h3>Features</h3>
